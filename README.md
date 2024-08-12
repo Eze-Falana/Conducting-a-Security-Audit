@@ -72,3 +72,13 @@ While legacy systems are monitored and maintained, there is no regular schedule 
 The store’s physical location, which includes Botium Toys’ main offices, store front, and warehouse of products, has sufficient locks, up-to-date closed-circuit television (CCTV) surveillance, as well as functioning fire detection and prevention systems.
 # Controls and Compliance checklist
 ![Controls and compliance checklist page 1](https://github.com/user-attachments/assets/95a4fba8-67a8-44ef-b04d-7b48f27fb03f)
+![Controls and compliance checklist page 2](https://github.com/user-attachments/assets/102b2565-ef7d-4338-be4c-09b6d4c5142e)
+![Controls and compliance checklist page 3](https://github.com/user-attachments/assets/6a907cd1-cef2-4b89-ad54-aea8a74752cd)
+![Controls and compliance checklist page 4](https://github.com/user-attachments/assets/509249b1-c02b-487b-9c43-e35e7e36ee5f)
+![Controls and compliance checklist page 5](https://github.com/user-attachments/assets/96a092b3-a4ff-4f34-84cd-9a63be941016)
+
+
+
+
+
+
