@@ -71,6 +71,4 @@ There is no centralized password management system that enforces the password po
 While legacy systems are monitored and maintained, there is no regular schedule in place for these tasks and intervention methods are unclear.
 The store’s physical location, which includes Botium Toys’ main offices, store front, and warehouse of products, has sufficient locks, up-to-date closed-circuit television (CCTV) surveillance, as well as functioning fire detection and prevention systems.
 # Controls and Compliance checklist
-![Controls and compliance checklist page 1](https://github.com/user-attachments/assets/6bb7e2f5-25af-461d-983d-0b2aac67bddc)
-![Controls and compliance checklist page 2](https://github.com/user-attachments/assets/f32e046d-b036-49fa-bef6-bc634b1c164d)
-
+![Controls and compliance checklist page 1](https://github.com/user-attachments/assets/95a4fba8-67a8-44ef-b04d-7b48f27fb03f)
