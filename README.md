@@ -71,11 +71,17 @@ There is no centralized password management system that enforces the password po
 While legacy systems are monitored and maintained, there is no regular schedule in place for these tasks and intervention methods are unclear.
 The store’s physical location, which includes Botium Toys’ main offices, store front, and warehouse of products, has sufficient locks, up-to-date closed-circuit television (CCTV) surveillance, as well as functioning fire detection and prevention systems.
 # Controls and Compliance checklist
-![Controls and compliance checklist page 1](https://github.com/user-attachments/assets/95a4fba8-67a8-44ef-b04d-7b48f27fb03f)
+![Controls and compliance checklist- page 1](https://github.com/user-attachments/assets/43bcb37e-ccfd-41ec-9f56-279c46fdfd58)
 ![Controls and compliance checklist page 2](https://github.com/user-attachments/assets/102b2565-ef7d-4338-be4c-09b6d4c5142e)
 ![Controls and compliance checklist page 3](https://github.com/user-attachments/assets/6a907cd1-cef2-4b89-ad54-aea8a74752cd)
 ![Controls and compliance checklist page 4](https://github.com/user-attachments/assets/509249b1-c02b-487b-9c43-e35e7e36ee5f)
-![Controls and compliance checklist page 5](https://github.com/user-attachments/assets/96a092b3-a4ff-4f34-84cd-9a63be941016)
+![Controls and compliance checklist- page 5](https://github.com/user-attachments/assets/bbedfaf8-6be2-4866-88d6-e6f24823eac5)
+
+# Recommendations
+Multiple controls need to be implemented to improve Botium Toys’ security posture and better ensure the confidentiality of sensitive information, including: Least Privilege, disaster recovery plans, password policies, separation of duties, an IDS, ongoing legacy system management, encryption, and a password management system.
+
+To address gaps in compliance, Botium Toys needs to implement controls such as Least Privilege, separation of duties, and encryption. The company also needs to properly classify assets, to identify additional controls that may need to be implemented to improve their security posture and better protect sensitive information.
+
 
 
 
