@@ -1,4 +1,13 @@
-# Conducting-a-Security-Audit
+# Conducting a Security Audit- Botium Toys
+# Table of contents
+1. Introduction
+2. Scenario
+3. Scope,goals and risk assessment report
+4. Controls and compliance checklist
+5. Recommendations
+# Introduction
+Part of the Google Cybersecurity course was to conduct an internal security audit on Botium toys, a fictious company. The aim is to ensure the audit aligns with industry standards and best practices. This audit must also provide recommendations to mitigate the vulnerabilities found and present an overall plan for improving the security posture of the company.
+
 # Scenario
 Botium Toys is a small U.S. business that develops and sells toys. The business has a single physical location, which serves as their main office, a storefront, and warehouse for their products. However, Botium Toy’s online presence has grown, attracting customers in the U.S. and abroad. As a result, their information technology (IT) department is under increasing pressure to support their online market worldwide. 
 
