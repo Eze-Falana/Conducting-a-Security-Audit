@@ -3,7 +3,7 @@
 1. [Introduction](#introduction)
 2. [Scenario](#Scenario)
 3. [Scope and Goals](#Scope and Goals)
-4. [Controls and compliance checklist](#Controls and compliance checklist)
+4. [Compliance Checklist](#ComplianceChecklist)
 5. [Recommendations](#Recommendations)
 # Introduction
 Part of the Google Cybersecurity course was to conduct an internal security audit on Botium toys, a fictious company. The aim is to ensure the audit aligns with industry standards and best practices. This audit must also provide recommendations to mitigate the vulnerabilities found and present an overall plan for improving the security posture of the company.
@@ -91,7 +91,7 @@ Legacy systems are being monitored and maintained, but there is no established s
 
 Botium Toys’ physical locations, including the main offices, storefront, and warehouse, are equipped with adequate security measures such as locks, CCTV surveillance, and fire detection and prevention systems.
 
-# Controls and Compliance checklist
+# Compliance Checklist
 ![Controls and compliance checklist- page 1](https://github.com/user-attachments/assets/43bcb37e-ccfd-41ec-9f56-279c46fdfd58)
 ![Controls and compliance checklist page 2](https://github.com/user-attachments/assets/102b2565-ef7d-4338-be4c-09b6d4c5142e)
 ![Controls and compliance checklist page 3](https://github.com/user-attachments/assets/6a907cd1-cef2-4b89-ad54-aea8a74752cd)
