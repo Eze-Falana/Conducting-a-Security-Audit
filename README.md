@@ -56,41 +56,41 @@ Legacy system maintenance
 
 ## Risk assessment
 
+### Current Asset Management and Compliance Overview
 
-Risk description
-Currently, there is inadequate management of assets. Additionally, Botium Toys does not have all of the proper controls in place and may not be fully compliant with U.S. and international regulations and standards. 
-Control best practices
+At present, the management of assets at Botium Toys is inadequate. Furthermore, the company lacks several critical controls and may not be fully compliant with UK and international regulations and standards.
 
+### Best Practices for Control Implementation
 
-The first of the five functions of the NIST CSF is Identify. Botium Toys will need to dedicate resources to identify assets so they can appropriately manage them. Additionally, they will need to classify existing assets and determine the impact of the loss of existing assets, including systems, on business continuity.
-Risk score
+The first function of the NIST Cybersecurity Framework (CSF) is "Identify." To effectively manage their assets, Botium Toys must allocate resources to accurately identify and classify them. This also involves assessing the potential impact of losing these assets, including critical systems, on the company's ability to continue operations.
 
+### Risk Assessment
 
-On a scale of 1 to 10, the risk score is 8, which is fairly high. This is due to a lack of controls and adherence to compliance best practices.
-Additional comments
+The risk level has been assessed as 8 out of 10, indicating significant concern. This high score results from the absence of key controls and insufficient adherence to compliance best practices.
 
+Further Observations
 
-The potential impact from the loss of an asset is rated as medium, because the IT department does not know which assets would be at risk. The risk to assets or fines from governing bodies is high because Botium Toys does not have all of the necessary controls in place and is not fully adhering to best practices related to compliance regulations that keep critical data private/secure. Review the following bullet points for specific details:
+The potential consequences of asset loss are considered moderate, mainly because the IT department is uncertain about which assets are at risk. The risk of asset exposure or penalties from regulatory bodies is substantial since Botium Toys lacks comprehensive controls and does not fully adhere to compliance regulations designed to protect sensitive data.
 
-Currently, all Botium Toys employees have access to internally stored data and may be able to access cardholder data and customers’ PII/SPII.
-Encryption is not currently used to ensure confidentiality of customers’ credit card information that is accepted, processed, transmitted, and stored locally in the company’s internal database. 
-Access controls pertaining to least privilege and separation of duties have not been implemented.
+Key details include:
 
+All employees at Botium Toys currently have access to internally stored data, including potentially sensitive customer information such as credit card details and personally identifiable information (PII).
+Encryption is not being used to safeguard customers' credit card data, which is stored, processed, and transmitted within the company's internal systems.
+Critical access controls, such as least privilege and separation of duties, are not in place.
+The IT department has taken steps to ensure data availability and integrity, including:
 
-The IT department has ensured availability and integrated controls to ensure data integrity.
-The IT department has a firewall that blocks traffic based on an appropriately defined set of security rules.
-Antivirus software is installed and monitored regularly by the IT department. 
+Implementing a firewall configured with appropriate security rules.
+Installing and regularly monitoring antivirus software.
+However, the department has not yet deployed an intrusion detection system (IDS) and lacks disaster recovery plans and backups for critical data.
 
+There is a plan to notify EU customers within 72 hours in the event of a security breach. Privacy policies and procedures have been established and enforced within the IT department and among other employees to ensure proper data documentation and maintenance.
 
-The IT department has not installed an intrusion detection system (IDS).
-There are no disaster recovery plans currently in place, and the company does not have backups of critical data. 
-The IT department has established a plan to notify E.U. customers within 72 hours if there is a security breach. Additionally, privacy policies, procedures, and processes have been developed and are enforced among IT department members/other employees, to properly document and maintain data.
+While a password policy exists, its current requirements do not meet modern standards for complexity (e.g., at least eight characters, including a combination of letters, numbers, and special characters). Additionally, the absence of a centralised password management system sometimes hampers productivity when password resets or recoveries are needed.
 
+Legacy systems are being monitored and maintained, but there is no established schedule or clear intervention methods for these tasks.
 
-Although a password policy exists, its requirements are nominal and not in line with current minimum password complexity requirements (e.g., at least eight characters, a combination of letters and at least one number; special characters). 
-There is no centralized password management system that enforces the password policy’s minimum requirements, which sometimes affects productivity when employees/vendors submit a ticket to the IT department to recover or reset a password.
-While legacy systems are monitored and maintained, there is no regular schedule in place for these tasks and intervention methods are unclear.
-The store’s physical location, which includes Botium Toys’ main offices, store front, and warehouse of products, has sufficient locks, up-to-date closed-circuit television (CCTV) surveillance, as well as functioning fire detection and prevention systems.
+Botium Toys’ physical locations, including the main offices, storefront, and warehouse, are equipped with adequate security measures such as locks, CCTV surveillance, and fire detection and prevention systems.
+
 # Controls and Compliance checklist
 ![Controls and compliance checklist- page 1](https://github.com/user-attachments/assets/43bcb37e-ccfd-41ec-9f56-279c46fdfd58)
 ![Controls and compliance checklist page 2](https://github.com/user-attachments/assets/102b2565-ef7d-4338-be4c-09b6d4c5142e)
@@ -99,9 +99,9 @@ The store’s physical location, which includes Botium Toys’ main offices, sto
 ![Controls and compliance checklist- page 5](https://github.com/user-attachments/assets/bbedfaf8-6be2-4866-88d6-e6f24823eac5)
 
 # Recommendations
-Multiple controls need to be implemented to improve Botium Toys’ security posture and better ensure the confidentiality of sensitive information, including: Least Privilege, disaster recovery plans, password policies, separation of duties, an IDS, ongoing legacy system management, encryption, and a password management system.
+Several controls need to be put in place to strengthen Botium Toys’ security framework and better safeguard the confidentiality of sensitive data. These include implementing least privilege access, establishing disaster recovery plans, enforcing robust password policies, ensuring separation of duties, deploying an intrusion detection system (IDS), maintaining legacy systems regularly, utilising encryption, and introducing a comprehensive password management system.
 
-To address gaps in compliance, Botium Toys needs to implement controls such as Least Privilege, separation of duties, and encryption. The company also needs to properly classify assets, to identify additional controls that may need to be implemented to improve their security posture and better protect sensitive information.
+To close compliance gaps, Botium Toys must adopt measures such as least privilege access, separation of duties, and encryption. Additionally, the company should categorise its assets accurately to determine any further controls required to enhance security and protect sensitive information more effectively.
 
 
 
