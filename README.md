@@ -2,9 +2,10 @@
 # Table of contents
 1. [Introduction](#introduction)
 2. [Scenario](#Scenario)
-3. [Scope and Goals](#Scope and Goals)
-4. [Compliance Checklist](#ComplianceChecklist)
-5. [Recommendations](#Recommendations)
+3. [Scope and Goals](#Scope-and-Goals)
+4. [Risk assessment](#Risk-assessment)
+5. [Compliance Checklist](#Compliance-Checklist)
+6. [Recommendations](#Recommendations)
 # Introduction
 Part of the Google Cybersecurity course was to conduct an internal security audit on Botium toys, a fictious company. The aim is to ensure the audit aligns with industry standards and best practices. This audit must also provide recommendations to mitigate the vulnerabilities found and present an overall plan for improving the security posture of the company.
 
@@ -17,7 +18,7 @@ The IT manager starts by implementing the National Institute of Standards and Te
 
 Your task is to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist. 
 
-# Scope, goals and risk assessment
+# Scope and Goals
 ## Scope and goals of the audit
 
 ### Scope
@@ -54,7 +55,7 @@ Legacy system maintenance
 -end-of-life systems that require human monitoring 
 
 
-## Risk assessment
+# Risk assessment
 
 ### Current Asset Management and Compliance Overview
 
