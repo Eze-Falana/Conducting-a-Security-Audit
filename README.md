@@ -1,8 +1,8 @@
 # Conducting a Security Audit- Botium Toys
 # Table of contents
 1. [Introduction](#introduction)
-2. Scenario
-3. Scope,goals and risk assessment report
+2. [Scenario](#Scenario)
+3. [Scope,goals and risk assessment report](#Scope,goals and risk assessment report)
 4. Controls and compliance checklist
 5. Recommendations
 # Introduction
