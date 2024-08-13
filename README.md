@@ -4,7 +4,7 @@
 2. [Scenario](#Scenario)
 3. [Scope and Goals](#Scope-and-Goals)
 4. [Risk assessment](#Risk-assessment)
-5. [Compliance Checklist](#Compliance-Checklist)
+5. [Control and Compliance Checklist](#Control-and-Compliance-Checklist)
 6. [Recommendations](#Recommendations)
 # Introduction
 Part of the Google Cybersecurity course was to conduct an internal security audit on Botium toys, a fictious company. The aim is to ensure the audit aligns with industry standards and best practices. This audit must also provide recommendations to mitigate the vulnerabilities found and present an overall plan for improving the security posture of the company.
