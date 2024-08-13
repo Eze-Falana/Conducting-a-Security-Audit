@@ -2,9 +2,9 @@
 # Table of contents
 1. [Introduction](#introduction)
 2. [Scenario](#Scenario)
-3. [Scope,goals and risk assessment report](#Scope,goals and risk assessment report)
-4. Controls and compliance checklist
-5. Recommendations
+3. [Scope and Goals](#Scope and Goals)
+4. [Controls and compliance checklist](#Controls and compliance checklist)
+5. [Recommendations](#Recommendations)
 # Introduction
 Part of the Google Cybersecurity course was to conduct an internal security audit on Botium toys, a fictious company. The aim is to ensure the audit aligns with industry standards and best practices. This audit must also provide recommendations to mitigate the vulnerabilities found and present an overall plan for improving the security posture of the company.
 
@@ -16,8 +16,9 @@ The manager of the IT department has decided that an internal IT audit needs to 
 The IT manager starts by implementing the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF), establishing an audit scope and goals, listing assets currently managed by the IT department, and completing a risk assessment. The goal of the audit is to provide an overview of the risks and/or fines that the company might experience due to the current state of their security posture.
 
 Your task is to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist. 
-# Scope,goals and risk assessment report
-Scope and goals of the audit
+
+# Scope, goals and risk assessment
+## Scope and goals of the audit
 
 
 Scope: The scope of this audit is defined as the entire security program at Botium Toys. This includes their assets like employee equipment and devices, their internal network, and their systems. You will need to review the assets Botium Toys has and the controls and compliance practices they have in place.
@@ -42,7 +43,7 @@ Data retention and storage
 Legacy system maintenance: end-of-life systems that require human monitoring 
 
 
-Risk assessment
+## Risk assessment
 
 
 Risk description
